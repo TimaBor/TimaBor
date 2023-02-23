@@ -20,7 +20,7 @@ Web-Developer
 
 <a href="https://github.com/TimaBor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimaBor&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  -->
-<h1 align="center">Привет 👋, меня зовут Тимофей Борщаков</h1>
+<h1 align="center">Привет 👋, меня зовут Борщаков Тимофей Андреевич</h1>
 <h3 align="center">Junior+ Front-end Developer</h3>
 
 - 🔭 I’m currently working on **VitTim Network**
